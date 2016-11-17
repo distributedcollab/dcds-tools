@@ -1,0 +1,12 @@
+#!/bin/bash
+
+export JAR=user-management-tools-5.24-SNAPSHOT-jar-with-dependencies.jar
+
+export DB_HOST=dcds-ca-incident-db1.DCDS.LL.MIT.EDU
+export DB=dcds
+export DB_USERNAME=dcds
+export DB_PASSWORD=VEysANY8Ax
+
+export RABBIT_COOKIE=CYAGJGTGIVNLPAKPQUDO
+export RABBIT_NODE=rabbit@dcds-ca-incident-web1
+export CREATE_RABBIT_USER=true
